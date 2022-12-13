@@ -2,7 +2,7 @@
 - 👨‍💻 Atuando como Analista de suporte/redes Jr
 - 📚 Cursando o 3▫ semestre do CST Redes de computadores, pela insituição Pitágoras.
 - 🐍 Apreciador da linguagem Python
-- 👀 Iniciando novos aprendizados em outras linguagens e software.
+- 👀 Iniciando novos aprendizados em outras linguagens e softwares.
 
 <div align="center">
   <a href="https://github.com/Ualtter031">
