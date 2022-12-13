@@ -6,9 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/Ualtter031">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualtter031&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
+## Técnologias que utilizo no meu dia a dia
 <div style="display: inline_block"><br>
   <img align="center" alt="Ualtter-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ualtter-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
@@ -17,7 +18,9 @@
   <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
   ##
