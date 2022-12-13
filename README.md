@@ -1,17 +1,17 @@
 ## Olá, eu sou o Gabriel Ualtter, muito prazer!
-- 👨‍💻 Atuando como Analista de redes
+- 👨‍💻 Atuando como Analista de suporte/redes Jr
 - 📚 Cursando o 3▫ semestre do CST Redes de computadores, pela insituição Pitágoras.
-- 🐍 Apreciando a linguagem Python
-- 👀 Iniciando novos aprendizados em C#,
+- 🐍 Apreciador da linguagem Python
+- 👀 Iniciando novos aprendizados em outras linguagens.
 
 
 <div align="center">
   <a href="https://github.com/Ualtter031">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualtter031&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualtter031&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ualtter-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
