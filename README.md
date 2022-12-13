@@ -2,16 +2,22 @@
 - 👨‍💻 Atuando como Analista de suporte/redes Jr
 - 📚 Cursando o 3▫ semestre do CST Redes de computadores, pela insituição Pitágoras.
 - 🐍 Apreciador da linguagem Python
-- 👀 Iniciando novos aprendizados em outras linguagens.
-
+- 👀 Iniciando novos aprendizados em outras linguagens e software.
 
 <div align="center">
   <a href="https://github.com/Ualtter031">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualtter031&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualtter031&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ualtter-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ualtter-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Ualtter-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  
 </div>
   
   ##
