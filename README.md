@@ -1,6 +1,7 @@
 ## Olá, eu sou o Gabriel Ualtter, muito prazer!
 - 👨‍💻 Atuando como Analista de suporte/redes Jr
 - 📚 Cursando o 4▫ semestre do CST Redes de computadores, pela insituição Pitágoras
+- 📚 Cursando o 1▫ semestre de Engenharia de Software, pela insituição Estácio
 - 👀 Iniciando novos aprendizados em outras linguagens e softwares.
 
 <div align="center">
