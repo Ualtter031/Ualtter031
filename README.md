@@ -10,7 +10,7 @@
   
 
 <h1 align="center" > Meu progresso...</h1> 
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/Ualtter031">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ualtter031&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
