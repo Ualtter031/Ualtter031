@@ -1,5 +1,5 @@
 <h1 align="center" > Olá, eu sou o Gabriel Ualtter👋</h1> 
-<img align="right" src="https://github.com/Ualtter031/Ualtter031/blob/main/developer.gif" alt="Coder GIF" width="220" height="130">
+<img align="right" src="https://github.com/Ualtter031/Ualtter031/blob/main/developer.gif" alt="Coder GIF" width="220" height="120">
   
 - <img align="center" alt="Gabriel-Reply" height="20" width="20"
     src="https://github.com/Ualtter031/Ualtter031/blob/main/reply.png">
