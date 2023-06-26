@@ -1,10 +1,11 @@
 <h1 align="center" > Olá, eu sou o Gabriel Ualtter👋</h1> 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="220" height="130">
+<img align="right" src="https://github.com/Ualtter031/Ualtter031/blob/main/developer.gif" alt="Coder GIF" width="220" height="150">
 
-- 👨‍💻 Atuando como Analista de suporte a aplicações.
+- 👨‍💻 Atuando como Analista de suporte a aplicações na empresa Reply do Brasil.
 - 📚 Cursando o 4▫ semestre do CST Redes de computadores, pela insituição Pitágoras.
 - 📚 Cursando o 1▫ semestre de Engenharia de Software, pela insituição Estácio.
 - 👀 Iniciando novos aprendizados em outras linguagens e softwares.
+- 
 
 <h1 align="center" > Meu progresso...</h1> 
 <div align="center">
