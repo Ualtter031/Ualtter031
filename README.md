@@ -6,7 +6,7 @@
   Atuando como Analista de suporte a aplicações na empresa Reply do Brasil
 - 📚 Cursando o 4▫ semestre do CST Redes de computadores, pela insituição Pitágoras.
 - 📚 Cursando o 1▫ semestre de Engenharia de Software, pela insituição Estácio.
-- 👀 Iniciando novos aprendizados em outras linguagens e softwares.
+- 📚 Estudandte de C#, já possuindo conhecimentos em Apsnet core, EntityFramework e Windows Forms.
   
 
 <h1 align="center" > Meu progresso...</h1>
