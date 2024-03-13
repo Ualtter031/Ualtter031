@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="center" alt="Gabriel-Reply" height="20" width="20"
-    src="https://github.com/Ualtter031/Ualtter031/blob/main/reply.png"> Atuando como Analista de suporte a aplicações na empresa Reply do Brasil<br>📚 Cursando o último semestre do CST Redes de computadores, pela instituição Pitágoras.<br>📚 Cursando o 2▫ semestre de Engenharia de Software, pela instituição Estácio.<br>📚 Estudante de back-end e front-End<br>
+    src="https://github.com/Ualtter031/Ualtter031/blob/main/reply.png"> Atuando como Analista de suporte a aplicações na empresa Reply do Brasil<br>📚 Cursando o último semestre do CST Redes de computadores, pela instituição Pitágoras.<br>📚 Cursando o 3▫ semestre de Engenharia de Software, pela instituição Estácio.<br>📚 Estudante de back-end e front-End<br>
 
 
 ## 🌐 Socials:
