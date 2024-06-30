@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>📚 CST Redes de computadores, pela instituição Pitágoras.
 <br>📚 Cursando o 3▫ semestre de Engenharia de Software, pela instituição Estácio.
-<br>📚 Estudante de back-end e front-End
+<br>📚 Estudante de back-end.
 <br>
 
 
