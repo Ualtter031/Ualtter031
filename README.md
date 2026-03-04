@@ -1,7 +1,7 @@
 # 💫 About Me  
 📚 **Formação:**  
 - CST em Redes de Computadores pela Pitágoras.  
-- Cursando o 6º semestre de Engenharia de Software pela Estácio.  
+- Cursando o 7º semestre de Engenharia de Software pela Estácio.  
 
 💻 **Interesses:**  
 - Estudante de Back-End, focado em desenvolvimento com tecnologias Microsoft e bancos de dados relacionais.  
@@ -35,4 +35,3 @@
 
 ---
 
-![](developer.gif)
